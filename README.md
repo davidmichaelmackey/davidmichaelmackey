@@ -1,5 +1,3 @@
-<img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
-
 <h1>{ David Michael Mackey }</h1>
 <h3>🎧 Music Producer turned Web Developer 💻</h3>
 
@@ -13,6 +11,10 @@ Together, through a collective effort, we can bridge the intersection of simplic
 <br><br>
 Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 <br>
+
+---
+
+<img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
 
 ---
 
