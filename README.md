@@ -2,9 +2,9 @@
 
 <h1>{ David Michael Mackey }</h1>
 
-<img align="right" width="650" src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
-
 <h3>🎧 Music Producer turned Web Developer 💻</h3>
+
+<img align="right" width="500" src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
 
 <h3 align="left">About Me</h3>
 
