@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1614034178871-d038bce3b763?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3884&q=80" alt="Header">
+<img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
 
 <h1>{ David Michael Mackey }</h1>
 <h3>🎧 Music Producer turned Web Developer 💻</h3>
@@ -65,9 +65,9 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 
 <h3>GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="David's Stats" width="100%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=dracula&hide_border=true" alt="David's Streak" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=ayumirage&show_icons=true&hide_border=true&count_private=true" alt="David's Stats" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=ayumirage&hide_border=true" alt="David's Streak" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=ayumirage&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages" width="100%">
 
 <!--
 **davidmichaelmackey/davidmichaelmackey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
