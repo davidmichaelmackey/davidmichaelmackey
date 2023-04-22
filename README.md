@@ -44,9 +44,9 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 
 <h3>GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="David's Stats" width="100%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=tokyonight&hide_border=true" alt="David's Streak" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="David's Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=tokyonight&hide_border=true" alt="David's Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages">
 
 <!--
 **davidmichaelmackey/davidmichaelmackey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
