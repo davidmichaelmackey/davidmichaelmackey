@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/sPNNVoU.gif" alt="Gif Header Image" width="100%">
+
 <h1>{ David Michael Mackey }</h1>
 <h3>🎧 Music Producer turned Web Developer 💻</h3>
 
