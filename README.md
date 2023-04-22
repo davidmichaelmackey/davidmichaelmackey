@@ -51,11 +51,13 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=76D04B&labelColor=gray)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=000000&labelColor=gray)
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=ECD53F&labelColor=gray)
+![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000&labelColor=gray)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=gray)
 ![Create React App](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=Create-React-App&logoColor=09D3AC&labelColor=gray)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=646CFF&labelColor=gray)
 ![React Router DOM](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=CA4245&labelColor=gray)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=764ABC&labelColor=gray)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=F44B21&labelColor=gray)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=gray)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
@@ -65,9 +67,9 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 
 <h3>GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="David's Stats" width="600" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=tokyonight&hide_border=true" alt="David's Streak" width="600" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages" width="600" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="David's Stats" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmichaelmackey&theme=tokyonight&hide_border=true" alt="David's Streak" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmichaelmackey&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="David's Top Languages" width="100%">
 
 <!--
 **davidmichaelmackey/davidmichaelmackey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
