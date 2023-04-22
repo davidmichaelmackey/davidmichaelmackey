@@ -1,34 +1,23 @@
 <img src="https://i.imgur.com/sPNNVoU.gif" alt="Gif Header Image" width="100%">
 
-<h1 align="center">{ David Michael Mackey }</h1>
-<h3 align="center">🎧 Music Producer turned Web Developer 💻</h3>
+<h1>{ David Michael Mackey }</h1>
 
----
+<img align="right" width="650" src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
 
-<h3>About Me</h3>
+<h3>🎧 Music Producer turned Web Developer 💻</h3>
+
+<h3 align="left">About Me</h3>
 
 As an indie web developer, who specializes in front-end & back-end, I believe in designing a cleaner, more accessible world, where user-interfaces are mediums between human & machine that foster intelligent, intuitive, and delightful interactions.
-<br><br>
+
 Together, through a collective effort, we can bridge the intersection of simplicity & function to craft an inspiring, compelling, and authentic brand narrative.
-<br><br>
+
 Let's design a world that's thoughtful, considered, and aesthetically pleasing.
-<br>
 
----
+<h3 align="left">Contact Me</h3>
 
-<img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
+:email: [Email](mailto:davidmackey92@gmail.com) :bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4) :briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)
 
----
-
-<h3>Contact Me</h3>
-
-:email: [Email](mailto:davidmackey92@gmail.com)
-<br>
-:bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4)
-<br>
-:briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)
-
----
 
 <h3>Languages and Tools</h3>
 
