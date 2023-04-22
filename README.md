@@ -20,9 +20,7 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 
 :bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4)
 <br>
-:email: [Email](mailto:davidmackey@hey.com)
-<br>
-:octocat: [GitHub](https://github.com/davidmichaelmackey/)
+:email: [Email](mailto:davidmackey92@gmail.com)
 <br>
 :briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)
 
