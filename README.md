@@ -18,9 +18,9 @@ Let's design a world that's thoughtful, considered, and aesthetically pleasing.
 
 <h3>Contact Me</h3>
 
-:bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4)
-<br>
 :email: [Email](mailto:davidmackey92@gmail.com)
+<br>
+:bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4)
 <br>
 :briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)
 
