@@ -1,25 +1,23 @@
 <img src="https://i.imgur.com/sPNNVoU.gif" alt="Gif Header Image" width="100%">
+<h1 align="">{ David Michael Mackey }</h1>
+<h3 align="">🎧 Music Producer turned Web Developer 💻</h3>
+<h3 align="">About Me</h3>
+<p align="">As an indie web developer, who specializes in front-end & back-end, I believe in designing a cleaner, more accessible world, where user-interfaces are mediums between human & machine that foster intelligent, intuitive, and delightful interactions.</p>
+<p align="">Together, through a collective effort, we can bridge the intersection of simplicity & function to craft an inspiring, compelling, and authentic brand narrative.</p>
 
-<h1>{ David Michael Mackey }</h1>
+<p align="">Let's design a world that's thoughtful, considered, and aesthetically pleasing.</p>
 
-<h3>🎧 Music Producer turned Web Developer 💻</h3>
+<img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
 
-<h3 align="left">About Me</h3>
+<h3 align="">Contact Me</h3>
 
-<img align="right" width="600" src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
+<p align="">:email: <a href="mailto:davidmackey92@gmail.com">Email</a></p>
 
-As an indie web developer, who specializes in front-end & back-end, I believe in designing a cleaner, more accessible world, where user-interfaces are mediums between human & machine that foster intelligent, intuitive, and delightful interactions.
+<p align="">:bust_in_silhouette: <a href="https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4">Resume</a></p>
 
-Together, through a collective effort, we can bridge the intersection of simplicity & function to craft an inspiring, compelling, and authentic brand narrative.
+<p align="">:briefcase: <a href="https://linkedin.com/in/davidmichaelmackey/">Linkedin</p>
 
-Let's design a world that's thoughtful, considered, and aesthetically pleasing.
-
-<h3 align="left">Contact Me</h3>
-
-:email: [Email](mailto:davidmackey92@gmail.com) :bust_in_silhouette: [Resume](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4) :briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)
-
-
-<h3>Languages and Tools</h3>
+<h3 align="">Languages and Tools</h3>
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=000000&labelColor=gray)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=gray)
