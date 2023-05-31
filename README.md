@@ -13,7 +13,7 @@
 
 <p align="">:email: <a href="mailto:davidmackey92@gmail.com">Email</a></p>
 
-<p align="">:bust_in_silhouette: <a href="https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4">Resume</a></p>
+<p align="">:bust_in_silhouette: <a href="[https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4](https://docs.google.com/document/d/1vNhRnQYBbCaMswr2wdKGQVImvLsDx5CCWNVJTcAUdWQ/edit?usp=sharing)">Resume</a></p>
 
 <p align="">:briefcase: <a href="https://linkedin.com/in/davidmichaelmackey/">Linkedin</p>
 
