@@ -7,7 +7,7 @@
 
 <p align="">Let's design a world that's thoughtful, considered, and aesthetically pleasing.</p>
 
-// <img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header">
+<!-- <img src="https://images.unsplash.com/photo-1580196923194-ddad5b516c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3138&q=80" alt="Header"> -->
 
 <h3 align="">Contact Me</h3>
 
